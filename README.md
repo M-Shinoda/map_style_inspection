@@ -13,8 +13,8 @@ MapLibre GL の地図の見た目(色・太さ・不透明度・ラベル表示�
 ```bash
 pnpm install
 pnpm run dev       # 開発サーバー起動（http://localhost:5173）
-pnpm run build     # 本番ビルド（dist/ に出力）
-pnpm run preview   # ビルド結果をローカルで確認
+# pnpm run build     # 本番ビルド（dist/ に出力）
+# pnpm run preview   # ビルド結果をローカルで確認
 ```
 
 ## 使い方
