@@ -1,0 +1,10 @@
+node_modules
+dist
+.vercel
+
+# maplibre-gl のワーカースクリプト（postinstall/prebuild で node_modules から自動生成される）
+public/maplibre-gl-worker.mjs
+public/maplibre-gl-shared.mjs
+
+*.log
+.DS_Store
